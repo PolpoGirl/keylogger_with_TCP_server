@@ -1,4 +1,4 @@
-# 🔐  Keylogger_with_TCP_server
+# Keylogger_with_TCP_server
 Outil de type keylogger qui envoie ces donnée vers un serveur avec un protocole TCP
 
 Ce projet s’inscrit dans une démarche de **recuperation d'information**.
@@ -6,28 +6,28 @@ Il vise à illustrer le fonctionnement de certaines menaces afin de mieux compre
 
 ---
 
-## 🎯 Objectif
+## Objectif
 
 * comprendre les mécanismes utilisés par certains logiciels malveillants
 * Recuperer des touches ou des frappes clavier et les envoyer vers un serveur distants
 
 ---
 
-## 💡 Concept
+## Concept
 
 Ce projet simule un comportement typique observé dans certaines attaques :
 la capture d’informations et leur transmission vers un serveur distant.
 
 ---
 
-## 📡 Axe d’étude
+## Axe d’étude
 
 * communication réseau entre un client et un serveur
 * analyse des schémas d’exfiltration de données
 
 ---
 
-## 🛡️ Approche
+## Approche
 
 Le projet est utilisé dans un cadre pour :
 
@@ -37,24 +37,24 @@ Le projet est utilisé dans un cadre pour :
 
 ---
 
-## ⚙️ Technologies
+## Technologies
 
 * PYTHON
 ---
 
-## ⚠️ Avertissement
+## Avertissement
 
 Ce projet est strictement destiné à un usage **expérimental**.
 
 ---
 
-## 📌 Statut
+## Statut
 
 Projet en expérimentation.
 
 ---
 
-## 🔍 Perspective
+## Perspective
 
 L’objectif à long terme est de proposer une protocole pour chiffrer les donnees afin qu'il ne puisse pas etre intercepter
 
